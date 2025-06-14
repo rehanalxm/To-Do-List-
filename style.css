@@ -141,3 +141,12 @@ li {
     
 }
 
+
+@media screen and (max-width: 480px) {
+  .profile {
+    top: 10px;
+    right: 10px;
+  }
+
+  
+}
